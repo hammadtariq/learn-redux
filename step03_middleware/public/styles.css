@@ -1,0 +1,20 @@
+body {
+margin: 0;
+font: 16px/1 sans-serif;
+}
+
+a.active {
+color: lightblue;
+font-weight: bold;
+text-decoration: none;
+}
+
+li a:hover{
+    color: lightblue;
+}
+
+dashHeader{
+    text-align:"center";
+    background-color:"gainsboro";
+    padding:"10px";
+}
