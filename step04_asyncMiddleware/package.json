@@ -18,6 +18,7 @@
     "webpack-dev-server": "~1.14.*"
   },
   "dependencies": {
+    "axios": "^0.14.0",
     "redux": "^3.5.2",
     "redux-logger": "^2.6.1",
     "redux-thunk": "^2.1.0"
