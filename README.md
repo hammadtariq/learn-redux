@@ -1,5 +1,5 @@
 # learn-redux
-Baby steps to learn redux
+Baby steps to get started with react using redux
 
 #Instructions 
 cd ./specified folder

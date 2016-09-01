@@ -37,6 +37,6 @@ store.dispatch((dispatch) => {
             dispatch({type:"USER_RECIEVED", payload:response.data})
         })
         .catch((err)=>{
-            dispatch({type:"FETCH_USERS_ERROR", payload:response.data})
+            dispatch({type:"FETCH_USERS_ERROR", payload:err})
         })
 });
